@@ -1,6 +1,6 @@
 # OpenShift Console
 
-Codename: "Bridge-test"
+Codename: "Bridge-test-two"
 
 [quay.io/openshift/origin-console](https://quay.io/repository/openshift/origin-console?tab=tags)
 
